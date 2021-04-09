@@ -1,0 +1,41 @@
+﻿region,neighbour
+Shirak,Aragatsotn
+Shirak,Lori
+Lori,Aragatsotn
+Lori,Shirak
+Lori,Tavush
+Lori,Kotayk
+Aragatsotn,Shirak
+Aragatsotn,Lori
+Aragatsotn,Kotayk
+Aragatsotn,Yerevan
+Aragatsotn,Armavir
+Tavush,Lori
+Tavush,Kotayk
+Tavush,Gegharkunik
+Kotayk,Lori
+Kotayk,Aragatsotn
+Kotayk,Tavush
+Kotayk,Gegharkunik
+Kotayk,Yerevan
+Kotayk,Ararat
+Gegharkunik,Kotayk
+Gegharkunik,Tavush
+Gegharkunik,Ararat
+Gegharkunik,Vayots Dzor
+Armavir,Ararat
+Armavir,Yerevan
+Armavir,Aragatsotn
+Ararat,Armavir
+Ararat,Gegharkunik
+Ararat,Kotayk
+Ararat,Yerevan
+Ararat,Vayots Dzor
+Yerevan,Ararat
+Yerevan,Armavir
+Yerevan,Kotayk
+Yerevan,Aragatsotn
+Vayots Dzor,Ararat
+Vayots Dzor,Gegharkunik
+Vayots Dzor,Syunik
+Syunik,Vayots Dzor

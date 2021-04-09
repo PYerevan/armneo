@@ -1,0 +1,923 @@
+﻿name,type,district,population
+Agarak,Village,Stepanavan,1155
+Ahnidzor,Village,Tumanyan,218
+Akhtala,Village,Tumanyan,19
+Akner,Village,Tumanyan,512
+Akori,Village,Tumanyan,2065
+Amoj,Village,Tumanyan,157
+Amrakits,Village,Stepanavan,522
+Antaramut,Village,Gugark,306
+Antarashen,Village,Gugark,259
+Apaven,Village,Tashir,85
+Ardvi,Village,Tumanyan,177
+Arevashogh,Village,Spitak,2515
+Arevatsag,Village,Tumanyan,821
+Arjut,Village,Gugark,990
+Arjut kayaranin kits,Village,Gugark,53
+Armanis,Village,Stepanavan,357
+Aroghcharanin kits,Village,Tumanyan,14
+Artsni,Village,Tashir,239
+Atan,Village,Tumanyan,281
+Aygehat,Village,Tumanyan,263
+Aznvadzor,Village,Gugark,380
+Bazum,Village,Gugark,1116
+Bendik,Village,Tumanyan,101
+Blagodarnoye,Village,Tashir,227
+Bovadzor,Village,Stepanavan,231
+Chkalov,Village,Tumanyan,144
+Chochkan,Village,Tumanyan,1559
+Darpas,Village,Gugark,1664
+Dashtadem,Village,Tashir,127
+Debet,Village,Gugark,821
+Dsegh,Village,Tumanyan,2137
+Dzoraget,Village,Gugark,259
+Dzoragyugh,Village,Gugark,334
+Dzoramut,Village,Tashir,281
+Dzyunashogh,Village,Tashir,177
+Fioletovo,Village,Gugark,1325
+Gargar,Village,Stepanavan,1478
+Geghasar,Village,Spitak,916
+Getavan,Village,Tashir,80
+Ghursali,Village,Spitak,464
+Gogaran,Village,Spitak,1065
+Gogavan,Village,Tashir,51
+Gugark,Village,Gugark,4278
+Gyulagarak,Village,Stepanavan,1870
+Haghpat,Village,Tumanyan,668
+Hagvi,Village,Tumanyan,402
+Halavar,Village,Gugark,111
+Hartagyugh,Village,Spitak,1035
+Haydarli,Village,Gugark,33
+Hobardzi,Village,Stepanavan,736
+Hovnanadzor,Village,Stepanavan,83
+Jiliza,Village,Tumanyan,136
+Jrashen,Village,Spitak,3096
+Kachachkut,Village,Tumanyan,393
+Karaberd,Village,Gugark,107
+Karadzor,Village,Spitak,331
+Karinj,Village,Tumanyan,643
+Karkop,Village,Tumanyan,323
+Karmir Aghek,Village,Tumanyan,174
+Katnaghbyur,Village,Stepanavan,767
+Katnajur,Village,Spitak,1536
+Katnarat,Village,Tashir,880
+Khnkoyan,Village,Spitak,259
+Kilisa,Village,Gugark,9
+Kober kayaran,Village,Tumanyan,45
+Koghes,Village,Stepanavan,381
+Kruglaya Shishka,Village,Tashir,90
+Kurtan,Village,Stepanavan,2117
+Lejan,Village,Stepanavan,837
+Lermontovo,Village,Gugark,912
+Lernahovit,Village,Tashir,1302
+Lernantsk,Village,Spitak,1221
+Lernapat,Village,Gugark,1661
+Lernavan,Village,Spitak,1363
+Lori Berd,Village,Stepanavan,405
+Lorut,Village,Tumanyan,843
+Lusaghbyur,Village,Spitak,917
+Margahovit,Village,Gugark,3466
+Marts,Village,Tumanyan,496
+Medovka,Village,Tashir,350
+Meghvahovit,Village,Tashir,105
+Metsavan,Village,Tashir,4578
+Mets Ayrum,Village,Tumanyan,581
+Mets Parni,Village,Spitak,1839
+Mghart,Village,Tumanyan,429
+Mikhayelovka,Village,Tashir,713
+Neghots,Village,Tumanyan,292
+Noramut,Village,Tashir,62
+Norashen,Village,Tashir,1201
+Nor Khachakap,Village,Spitak,631
+Novoseltsovo,Village,Tashir,152
+Odzun,Village,Tumanyan,4048
+Paghaghbyur,Village,Tashir,113
+Pambak,Village,Gugark,341
+Pambak kayaranin kits,Village,Gugark,53
+Petrovka,Village,Tashir,243
+Pokr Ayrum,Village,Tumanyan,160
+Privolnoye,Village,Tashir,805
+Pushkino,Village,Stepanavan,339
+Sarahart,Village,Spitak,1211
+Saralanj,Village,Spitak,188
+Saramej,Village,Spitak,1344
+Saratovka,Village,Tashir,424
+Sarchapet,Village,Tashir,2127
+Shahumyan,Village,Gugark,1934
+Shamut,Village,Tumanyan,257
+Shenavan,Village,Spitak,402
+Shirakamut,Village,Spitak,1821
+Shnogh,Village,Tumanyan,2561
+Sverdlov,Village,Stepanavan,1033
+Teghut,Village,Tumanyan,684
+Tsaghkaber,Village,Spitak,1195
+Tsaghkashat,Village,Tumanyan,181
+Tsater,Village,Tumanyan,377
+Urasar,Village,Stepanavan,347
+Urut,Village,Stepanavan,1020
+Vahagnadzor,Village,Gugark,300
+Vahagni,Village,Gugark,1070
+Vardablur,Village,Stepanavan,1245
+Yaghdan,Village,Stepanavan,233
+Yeghegnut,Village,Gugark,893
+Aghin,Village,Ani,382
+Aghin kayaran,Village,Ani,72
+Aghvorik,Village,Amasiay,89
+Akhurik,Village,Akhuryan,1243
+Akhuryan,Village,Akhuryan,7113
+Alvar,Village,Amasiay,140
+Amasia,Village,Amasiay,1532
+Aniavan (Ani kayaran),Village,Ani,331
+Anipemza,Village,Ani,260
+Anushavan,Village,Artik,2070
+Arapi,Village,Akhuryan,1795
+Ardenis,Village,Amasiay,135
+Aregnadem,Village,Amasiay,388
+Arevik,Village,Akhuryan,1566
+Arevshat,Village,Artik,1809
+Arpeni,Village,Ashotsk,276
+Ashotsk,Village,Ashotsk,2132
+Aygabats,Village,Akhuryan,701
+Azatan,Village,Akhuryan,4838
+Bandivan,Village,Amasiay,259
+Bardzrashen,Village,Ani,40
+Basen (Musayelyan),Village,Akhuryan,1393
+Bashgyugh,Village,Ashotsk,64
+Bavra,Village,Ashotsk,490
+Bayandur,Village,Akhuryan,634
+Beniamin,Village,Akhuryan,724
+Berdashen,Village,Amasiay,203
+Byurakn (Gyullibulagh),Village,Amasiay,739
+Darik,Village,Amasiay,11
+Dzithankov,Village,Ani,1308
+Dzorakap,Village,Ani,948
+Dzorashen,Village,Ashotsk,187
+Garnarich,Village,Amasiay,210
+Geghanist,Village,Artik,1229
+Getap,Village,Artik,797
+Getk,Village,Akhuryan,545
+Gharibjanyan,Village,Akhuryan,1055
+Ghazanchi,Village,Ashotsk,502
+Goghovit,Village,Ashotsk,390
+Gtashen,Village,Amasiay,271
+Gusanagyugh,Village,Ani,937
+Harich,Village,Artik,1535
+Hartashen,Village,Ashotsk,153
+Hatsik,Village,Akhuryan,937
+Hatsikavan,Village,Akhuryan,71
+Haykadzor,Village,Ani,380
+Haykasar,Village,Artik,220
+Haykavan,Village,Akhuryan,1107
+Hayrenyats,Village,Artik,856
+Hoghmik,Village,Amasiay,490
+Horom,Village,Artik,2032
+Hovit,Village,Akhuryan,566
+Hovtashen,Village,Artik,294
+Hovtun,Village,Amasiay,154
+Hovuni,Village,Akhuryan,620
+Isahakyan,Village,Ani,824
+Jajur,Village,Akhuryan,830
+Jajuravan,Village,Akhuryan,176
+Jradzor,Village,Amasiay,237
+Jrapi,Village,Ani,776
+Jrarat,Village,Akhuryan,1156
+Kakavasar,Village,Ashotsk,128
+Kamkhut,Village,Amasiay,2
+Kamo,Village,Akhuryan,1340
+Kaps,Village,Akhuryan,834
+Karaberd,Village,Ani,931
+Karmrakar,Village,Akhuryan,47
+Karmravan,Village,Ashotsk,217
+Karnut,Village,Akhuryan,851
+Keti,Village,Akhuryan,993
+Kharkov,Village,Ani,4
+Krasar,Village,Ashotsk,466
+Krashen,Village,Akhuryan,244
+Lanjik,Village,Ani,853
+Lernagyugh,Village,Ashotsk,25
+Lernakert,Village,Artik,1412
+Lernut,Village,Akhuryan,134
+Lusaghbyur,Village,Ani,536
+Lusakert,Village,Artik,754
+Marmashen,Village,Akhuryan,2032
+Mayisyan,Village,Akhuryan,1682
+Meghrashat,Village,Amasiay,325
+Meghrashen,Village,Artik,1435
+Mets Mantash,Village,Artik,2550
+Mets Sariar,Village,Akhuryan,335
+Mets Sepasar,Village,Ashotsk,841
+Musayelyan,Village,Ashotsk,388
+Nahapetavan,Village,Artik,1040
+Nor Kyank,Village,Artik,1701
+Norshen (Bagravan),Village,Ani,792
+Paghakn,Village,Amasiay,83
+Panik,Village,Artik,3157
+Pemzashen,Village,Artik,3244
+Pokrashen,Village,Akhuryan,203
+Pokr Mantash,Village,Artik,3040
+Pokr Sariar,Village,Ashotsk,241
+Pokr Sepasar,Village,Ashotsk,173
+Salut,Village,Ashotsk,91
+Saragyugh,Village,Ashotsk,174
+Sarakap,Village,Ani,517
+Saralanj,Village,Artik,1181
+Sarapat,Village,Ashotsk,109
+Saratak,Village,Artik,1321
+Sarnaghbyur,Village,Ani,2971
+Shaghik,Village,Amasiay,88
+Shirak,Village,Akhuryan,1153
+Shirakavan,Village,Ani,698
+Sizavet,Village,Ashotsk,334
+Spandaryan,Village,Artik,1662
+Tavshut,Village,Ashotsk,370
+Torosgyugh,Village,Ashotsk,334
+Tsaghkut,Village,Amasiay,181
+Tsoghamarg,Village,Ashotsk,495
+Tufashen,Village,Artik,483
+Vahramaberd,Village,Akhuryan,1455
+Vardaghbyur,Village,Ashotsk,99
+Vardakar,Village,Artik,709
+Voghji,Village,Amasiay,548
+Voskehask,Village,Akhuryan,1864
+Yeghnajur,Village,Amasiay,27
+Yerazgavors,Village,Akhuryan,1309
+Zarishat,Village,Amasiay,49
+Zorakert,Village,Amasiay,145
+Zuygaghbyur,Village,Ashotsk,411
+Aghavnadzor,Village,Hrazdan,1232
+Akunk,Village,Kotayk,1876
+Alapars,Village,Hrazdan,2076
+Aragyugh,Village,Nairi,994
+Aramus,Village,Kotayk,3412
+Argel,Village,Nairi,2501
+Arinj,Village,Kotayk,6220
+Artavaz (Takarrlu),Village,Hrazdan,467
+Arzakan,Village,Hrazdan,2390
+Arzni,Village,Kotayk,2422
+Balahovit,Village,Kotayk,3435
+Bjni,Village,Hrazdan,2547
+Buzhakan,Village,Nairi,1546
+Dzoraghbyur,Village,Kotayk,2124
+Fantan,Village,Hrazdan,930
+Garni,Village,Kotayk,6910
+Geghadir,Village,Kotayk,738
+Geghard,Village,Kotayk,363
+Geghashen,Village,Kotayk,3937
+Getamej,Village,Nairi,698
+Getargel (Radiokayan),Village,Kotayk,748
+Goght,Village,Kotayk,1921
+Gorgoch (Korchlu),Village,Hrazdan,28
+Hankavan,Village,Hrazdan,116
+Hatis,Village,Kotayk,302
+Hatsavan,Village,Kotayk,608
+Jraber,Village,Kotayk,377
+Jrarat,Village,Hrazdan,521
+Jrvezh,Village,Kotayk,7198
+Kaghsi,Village,Hrazdan,2200
+Kamaris,Village,Kotayk,2075
+Kanakeravan,Village,Nairi,3071
+Kaputan,Village,Kotayk,1210
+Karashamb,Village,Nairi,607
+Karenis,Village,Hrazdan,663
+Kasakh,Village,Nairi,5186
+Katnaghbyur,Village,Kotayk,609
+Kotayk,Village,Kotayk,1558
+Lernanist,Village,Hrazdan,3090
+Marmarik,Village,Hrazdan,720
+Mayakovski,Village,Kotayk,2161
+Meghradzor,Village,Hrazdan,2309
+Mrgashen,Village,Nairi,1933
+Nor Artamet,Village,Nairi,844
+Nor Geghi,Village,Nairi,5319
+Nor Gyugh,Village,Kotayk,1423
+Nor Yerznka,Village,Nairi,1628
+Nurnus,Village,Kotayk,532
+Proshyan,Village,Nairi,5147
+Ptghni,Village,Kotayk,1595
+Pyunik (Akhundov),Village,Hrazdan,316
+Saralanj,Village,Nairi,325
+Sevaberd,Village,Kotayk,211
+Solak,Village,Hrazdan,2240
+Teghenik,Village,Nairi,471
+Verin Ptghni,Village,Kotayk,893
+Voghjaberd,Village,Kotayk,838
+Zar,Village,Kotayk,1337
+Zoravan,Village,Nairi,1241
+Zovashen,Village,Kotayk,147
+Zovk,Village,Kotayk,901
+Zovuni,Village,Nairi,5479
+Aghberk,Village,Karmir,278
+Akhpradzor,Village,Vardenis,355
+Akunk,Village,Vardenis,4443
+Antaramej,Village,Karmir,171
+Areguni,Village,Vardenis,344
+Arpunk,Village,Vardenis,568
+Artanish,Village,Karmir,756
+Artsvanist,Village,Martuni,2825
+Astghadzor,Village,Martuni,4215
+Avazan,Village,Vardenis,252
+Aygut,Village,Karmir,911
+Ayrk,Village,Vardenis,317
+Azat,Village,Vardenis,101
+Barepat,Village,Karmir,68
+Berdkunk,Village,Gavarr,296
+Chkalovka,Village,Sevan,516
+Daranak,Village,Vardenis,168
+Ddmashen,Village,Sevan,2806
+Dprabak,Village,Karmir,489
+Drakhtik,Village,Karmir,909
+Dzoragyugh,Village,Martuni,4737
+Dzoravank,Village,Karmir,176
+Gagarin,Village,Sevan,1379
+Gandzak,Village,Gavarr,3815
+Geghakar,Village,Vardenis,136
+Geghamabak,Village,Vardenis,135
+Geghamasar,Village,Vardenis,1132
+Geghamavan,Village,Sevan,1721
+Gegharkunik,Village,Gavarr,1654
+Geghhovit,Village,Martuni,5753
+Getik,Village,Karmir,370
+Hayravank,Village,Gavarr,680
+Jaghatsadzor,Village,Vardenis,100
+Jil,Village,Karmir,615
+Kakhakn,Village,Vardenis,375
+Kalavan,Village,Karmir,117
+Karchaghbyur,Village,Vardenis,2337
+Karmirgyugh,Village,Gavarr,4964
+Khachaghbyur,Village,Vardenis,1064
+Kut,Village,Vardenis,193
+Kutakan,Village,Vardenis,288
+Lanjaghbyur,Village,Gavarr,2115
+Lchap,Village,Gavarr,982
+Lchashen,Village,Sevan,4969
+Lchavan,Village,Vardenis,548
+Lernahovit,Village,Martuni,323
+Lichk,Village,Martuni,5417
+Lusakunk,Village,Vardenis,1440
+Madina,Village,Martuni,1111
+Makenis,Village,Vardenis,405
+Martuni,Village,Karmir,500
+Mets Masrik,Village,Vardenis,3132
+Nerkin Getashen,Village,Martuni,8553
+Nerkin Shorzha,Village,Vardenis,12
+Norabak,Village,Vardenis,246
+Norakert,Village,Vardenis,1015
+Norashen,Village,Sevan,475
+Noratus,Village,Gavarr,6732
+Pambak,Village,Vardenis,548
+Pokr Masrik,Village,Vardenis,626
+Sarukhan,Village,Gavarr,8309
+Semyonovka,Village,Sevan,253
+Shatjrek,Village,Vardenis,466
+Shatvan,Village,Vardenis,612
+Shorzha,Village,Karmir,509
+Sotk,Village,Vardenis,824
+Torfavan,Village,Vardenis,490
+Tretuk,Village,Vardenis,174
+Tsaghkashen,Village,Gavarr,470
+Tsaghkunk,Village,Sevan,901
+Tsakkar,Village,Martuni,2692
+Tsapatagh,Village,Vardenis,360
+Tsovagyugh,Village,Sevan,3943
+Tsovak,Village,Vardenis,2319
+Tsovasar (Tazagyugh),Village,Martuni,2708
+Tsovazard,Village,Gavarr,1905
+Tsovinar,Village,Martuni,5115
+Ttujur,Village,Karmir,942
+Vaghashen,Village,Martuni,4267
+Vahan,Village,Karmir,1127
+Vanevan,Village,Vardenis,367
+Vardadzor,Village,Martuni,2864
+Vardenik,Village,Martuni,9880
+Varser,Village,Sevan,1901
+Verin Getashen,Village,Martuni,5010
+Verin Shorzha,Village,Vardenis,23
+Yeranos,Village,Martuni,5479
+Zolakar,Village,Martuni,6381
+Zovaber,Village,Sevan,1683
+Abovyan,Village,Artashat,1402
+Araksavan,Village,Artashat,732
+Aralez,Village,Ararat,2243
+Ararat,Village,Ararat,7609
+Arbat,Village,Masis,2058
+Arevabuyr,Village,Masis,1026
+Arevshat,Village,Artashat,2444
+Argavand,Village,Masis,1950
+Armash,Village,Ararat,2378
+Avshar,Village,Ararat,4929
+Aygavan,Village,Ararat,3914
+Aygepat,Village,Artashat,1287
+Aygestan,Village,Artashat,2397
+Aygezard,Village,Artashat,2994
+Ayntap,Village,Masis,8376
+Azatashen,Village,Masis,732
+Azatavan,Village,Artashat,2713
+Baghramyan,Village,Artashat,1614
+Bardzrashen,Village,Artashat,1335
+Berdik,Village,Artashat,776
+Berkanush,Village,Artashat,1568
+Burastan,Village,Artashat,1865
+Byuravan,Village,Artashat,1191
+Dalar,Village,Artashat,2594
+Darakert,Village,Masis,2723
+Darbnik,Village,Masis,1214
+Dashtakar,Village,Ararat,485
+Dashtavan,Village,Masis,1970
+Deghdzut,Village,Artashat,1027
+Dimitrov,Village,Artashat,1391
+Ditak,Village,Artashat,734
+Dvin (Nerkin Dvin),Village,Artashat,2751
+Geghanist,Village,Masis,2739
+Getapnya,Village,Masis,1571
+Getazat,Village,Artashat,1882
+Ghukasavan,Village,Masis,2019
+Ginevet,Village,Ararat,569
+Goravan,Village,Ararat,2340
+Hayanist,Village,Masis,2117
+Hnaberd,Village,Artashat,611
+Hovtashat,Village,Masis,3207
+Hovtashen,Village,Artashat,1034
+Jrahovit,Village,Masis,1072
+Jrashen,Village,Artashat,1607
+Kaghtsrashen,Village,Artashat,2794
+Kanachut,Village,Artashat,1028
+Khachpar,Village,Masis,2049
+Lanjanist,Village,Ararat,190
+Lanjar,Village,Ararat,204
+Lanjazat,Village,Artashat,1388
+Lusarat,Village,Ararat,2699
+Lusashogh,Village,Ararat,478
+Marmarashen,Village,Masis,2871
+Masis,Village,Artashat,1370
+Mkhchyan,Village,Artashat,4535
+Mrganush,Village,Artashat,1101
+Mrgavan,Village,Artashat,1606
+Mrgavet,Village,Artashat,2084
+Narek,Village,Artashat,1001
+Nizami,Village,Masis,1327
+Norabats,Village,Masis,2155
+Noramarg,Village,Masis,2069
+Norashen,Village,Artashat,3034
+Nor Kharberd,Village,Masis,7366
+Nor Kyank,Village,Ararat,2291
+Nor Kyurin,Village,Masis,865
+Nor Ughi,Village,Ararat,761
+Noyakert,Village,Ararat,1634
+Nshavan,Village,Artashat,1725
+Paruyr Sevak,Village,Ararat,398
+Pokr Vedi,Village,Ararat,2772
+Ranchpar,Village,Masis,1413
+Sayat-Nova,Village,Masis,1886
+Shaghap,Village,Ararat,913
+Shahumyan,Village,Artashat,3752
+Sipanik,Village,Masis,468
+Sis,Village,Masis,1201
+Sisavan,Village,Ararat,1841
+Surenavan,Village,Ararat,2172
+Taperakan,Village,Ararat,3128
+Tigranashen,Village,Ararat,154
+Urtsadzor,Village,Ararat,2587
+Urtsalanj,Village,Ararat,157
+Vanashen,Village,Ararat,2364
+Vardashat,Village,Ararat,178
+Vardashen,Village,Artashat,473
+Verin Artashat,Village,Artashat,4334
+Verin Dvin,Village,Artashat,1831
+Vosketap,Village,Ararat,4808
+Vostan,Village,Artashat,2739
+Yeghegnavan,Village,Ararat,1420
+Yeraskh,Village,Ararat,635
+Zangakatun,Village,Ararat,1042
+Zorak,Village,Masis,1783
+Agarak,Village,Ashtarak,1564
+Agarakavan (Agarak),Village,Talin,881
+Aghtsk (Dzorap),Village,Ashtarak,1614
+Akunk,Village,Talin,601
+Alagyaz,Village,Aragats,439
+Antarut,Village,Ashtarak,357
+Apna (Apnagyugh),Village,Aparan,630
+Ara,Village,Aparan,617
+Aragats,Village,Aparan,2773
+Aragatsavan (Aragats),Village,Talin,5053
+Aragatsotn,Village,Ashtarak,1015
+Arevut (Barozh),Village,Talin,115
+Artashavan,Village,Ashtarak,589
+Arteni,Village,Talin,3278
+Aruch,Village,Ashtarak,1014
+Ashnak,Village,Talin,1031
+Avan,Village,Ashtarak,715
+Avshen,Village,Aragats,229
+Bazmaghbyur,Village,Ashtarak,888
+Berkarat,Village,Aragats,795
+Byurakan,Village,Ashtarak,4345
+Charchakis (Derek),Village,Aragats,443
+Chknagh,Village,Aparan,239
+Dashtadem,Village,Talin,548
+Davtashen,Village,Talin,704
+Ddmasar (Ghabaghtapa),Village,Talin,94
+Dian,Village,Talin,105
+Dprevank,Village,Ashtarak,47
+Dzoraglukh,Village,Aparan,305
+Dzoragyugh,Village,Talin,14
+Garnahovit,Village,Talin,391
+Geghadir,Village,Aragats,590
+Geghadzor,Village,Aragats,1223
+Gegharot,Village,Aragats,490
+Getap,Village,Talin,159
+Ghazaravan,Village,Ashtarak,450
+Hako (Hakko),Village,Talin,95
+Hartavan,Village,Aparan,930
+Hatsashen,Village,Talin,278
+Hnaberd,Village,Aragats,1836
+Irind,Village,Talin,712
+Jamshlu,Village,Aragats,197
+Jrambar,Village,Aparan,146
+Kakavadzor,Village,Talin,981
+Kanch (Gyalto),Village,Talin,101
+Kaniashir (Sangyarr),Village,Aragats,292
+Karbi,Village,Ashtarak,3666
+Karin,Village,Ashtarak,428
+Karmrashen,Village,Talin,632
+Katnaghbyur,Village,Talin,1274
+Kayk (Mulki),Village,Aparan,441
+Khnusik,Village,Ashtarak,3
+Kosh,Village,Ashtarak,2513
+Kuchak,Village,Aparan,2147
+Lernapar,Village,Aragats,536
+Lernarot,Village,Ashtarak,308
+Lusagyugh,Village,Aparan,710
+Lusakn,Village,Talin,170
+Madunts (Amre taza),Village,Aragats,208
+Mastara,Village,Talin,2433
+Melikgyugh,Village,Aragats,999
+Metsadzor (Avtona),Village,Talin,75
+Mijnatun (Ortachya),Village,Aragats,203
+Mirak,Village,Aragats,125
+Mughni,Village,Ashtarak,781
+Nerkin Bazmaberd,Village,Talin,1417
+Nerkin Sasnashen,Village,Talin,904
+Nigavan,Village,Aparan,658
+Nor Amanos,Village,Ashtarak,630
+Nor Artik,Village,Talin,478
+Norashen,Village,Aragats,1046
+Nor Yedesia,Village,Ashtarak,1065
+Ohanavan,Village,Ashtarak,2312
+Orgov,Village,Ashtarak,418
+Oshakan,Village,Ashtarak,4780
+Otevan (Baysz),Village,Talin,181
+Parpi,Village,Ashtarak,1970
+Partizak,Village,Talin,323
+Rya Taza,Village,Aragats,531
+Saghmosavan,Village,Ashtarak,158
+Saralanj,Village,Aparan,198
+Sasunik,Village,Ashtarak,2455
+Shamiram,Village,Ashtarak,1989
+Shenavan,Village,Aparan,1638
+Shenkani,Village,Aragats,255
+Shgharshik,Village,Talin,473
+Shoghakn (Norashen),Village,Aparan,167
+Sipan,Village,Aragats,182
+Sorik,Village,Talin,103
+Suser,Village,Talin,268
+Tatul (Areg),Village,Talin,822
+Tegher,Village,Ashtarak,57
+Tlik,Village,Talin,123
+Tsaghkahovit,Village,Aragats,1611
+Tsaghkasar,Village,Talin,71
+Tsaghkashen,Village,Aparan,644
+Tsamakasar,Village,Talin,430
+Tsilkar,Village,Aragats,554
+Ttujur,Village,Aparan,310
+Ujan,Village,Ashtarak,2505
+Ushi,Village,Ashtarak,1617
+Vardablur,Village,Aragats,466
+Vardenis,Village,Aparan,700
+Vardenut,Village,Aparan,895
+Verin Bazmaberd,Village,Talin,452
+Verin Sasnashen,Village,Talin,328
+Verin Sasunik,Village,Ashtarak,58
+Voskehat,Village,Ashtarak,974
+Vosketas,Village,Talin,533
+Voskevaz,Village,Ashtarak,4168
+Yeghipatrush,Village,Aparan,819
+Yeghnik,Village,Talin,336
+Yernjatap,Village,Aparan,611
+Zarinja,Village,Talin,585
+Zovasar,Village,Talin,497
+Aghavnatun,Village,Echmiadzin,2840
+Aknalich,Village,Echmiadzin,2566
+Aknashen,Village,Echmiadzin,1569
+Alashkert (Sovetakan),Village,Armavir,1569
+Amasia,Village,Armavir,850
+Amberd,Village,Echmiadzin,1412
+Apaga,Village,Echmiadzin,1853
+Aragats,Village,Echmiadzin,2924
+Araks,Village,Armavir,1651
+Araks,Village,Echmiadzin,1364
+Aratashen,Village,Echmiadzin,2505
+Arazap,Village,Armavir,1362
+Arevadasht,Village,Baghramyan,283
+Arevashat,Village,Echmiadzin,1917
+Arevik,Village,Armavir,2427
+Argavand,Village,Armavir,2301
+Argina,Village,Baghramyan,534
+Armavir,Village,Armavir,3319
+Arshaluys,Village,Echmiadzin,4250
+Artamet,Village,Baghramyan,172
+Artashar,Village,Armavir,1218
+Artimet,Village,Echmiadzin,1704
+Aygek,Village,Echmiadzin,1433
+Aygeshat,Village,Armavir,1547
+Aygeshat,Village,Echmiadzin,1798
+Aygevan (Dzerzhinski),Village,Armavir,1465
+Bagaran,Village,Baghramyan,622
+Baghramyan,Village,Baghramyan,658
+Baghramyan,Village,Echmiadzin,2838
+Bambakashat,Village,Armavir,3110
+Berkashat,Village,Armavir,520
+Dalarik,Village,Baghramyan,3975
+Dasht,Village,Echmiadzin,780
+Doghs,Village,Echmiadzin,1339
+Ferik,Village,Echmiadzin,310
+Gai,Village,Echmiadzin,3614
+Geghakert (Samaghar),Village,Echmiadzin,2564
+Getashen,Village,Armavir,2137
+Griboyedov,Village,Echmiadzin,1845
+Hatsik,Village,Armavir,2331
+Haykashen,Village,Echmiadzin,1115
+Haykavan,Village,Armavir,1508
+Haytagh,Village,Echmiadzin,2612
+Hovtamej,Village,Echmiadzin,1044
+Hushakert,Village,Baghramyan,855
+Janfida,Village,Armavir,2963
+Jrarat,Village,Echmiadzin,2981
+Jrarbi,Village,Echmiadzin,1600
+Jrashen,Village,Armavir,760
+Karakert,Village,Baghramyan,4471
+Khanjyan,Village,Armavir,1775
+Khoronk,Village,Echmiadzin,2507
+Koghbavan,Village,Baghramyan,121
+Lenughi,Village,Armavir,1470
+Lernagog,Village,Baghramyan,1700
+Lernamerdz,Village,Echmiadzin,384
+Lukashin,Village,Armavir,2216
+Lusagyugh,Village,Echmiadzin,1007
+Margara,Village,Armavir,1256
+Mayisyan (Zhdanov),Village,Armavir,1525
+Merdzavan,Village,Echmiadzin,3303
+Metsamor,Village,Echmiadzin,1322
+Mrgashat,Village,Armavir,4993
+Mrgastan,Village,Echmiadzin,957
+Musaler,Village,Echmiadzin,2641
+Myasnikyan,Village,Baghramyan,4036
+Nalbandyan,Village,Armavir,4863
+Norakert,Village,Echmiadzin,2739
+Norapat,Village,Armavir,1738
+Nor Armavir,Village,Armavir,1631
+Nor Artagers,Village,Armavir,1224
+Noravan,Village,Armavir,994
+Nor Kesaria,Village,Armavir,1269
+Parakar,Village,Echmiadzin,5584
+Pshatavan,Village,Armavir,2058
+Ptghunk,Village,Echmiadzin,1795
+Sardarapat (Hoktember),Village,Armavir,5192
+Shahumyan,Village,Echmiadzin,1642
+Shahumyani trchnafabrika,Village,Echmiadzin,946
+Shenavan,Village,Armavir,1423
+Shenik,Village,Baghramyan,975
+Tairov,Village,Echmiadzin,2377
+Talvorik,Village,Baghramyan,199
+Tandzut,Village,Armavir,1735
+Taronik,Village,Echmiadzin,1892
+Tsaghkalanj,Village,Echmiadzin,1283
+Tsaghkunk,Village,Echmiadzin,1144
+Tsiatsan,Village,Echmiadzin,1056
+Vanand,Village,Baghramyan,1036
+Vardanashen,Village,Armavir,824
+Voskehat,Village,Echmiadzin,3491
+Yeghegnut,Village,Armavir,2203
+Yeraskhahun,Village,Armavir,1834
+Yervandashat,Village,Baghramyan,654
+Zartonk,Village,Armavir,2321
+Achajur,Village,Ijevan,4258
+Acharkut,Village,Ijevan,200
+Aghavnavank,Village,Ijevan,337
+Aknaghbyur,Village,Ijevan,509
+Archis,Village,Noyemberyan,1125
+Artsvaberd,Village,Taush,2847
+Aygedzor,Village,Taush,2044
+Aygehovit,Village,Ijevan,3091
+Aygepar,Village,Taush,485
+Azatamut,Village,Ijevan,2513
+Baghanis,Village,Noyemberyan,893
+Bagratashen,Village,Noyemberyan,2732
+Barekamavan,Village,Noyemberyan,345
+Berdavan,Village,Noyemberyan,2987
+Berkaber,Village,Ijevan,465
+Chinari,Village,Taush,887
+Chinchin,Village,Taush,558
+Choratan,Village,Taush,898
+Debetavan,Village,Noyemberyan,669
+Deghdzavan,Village,Noyemberyan,287
+Ditavan,Village,Ijevan,348
+Dovegh,Village,Noyemberyan,534
+Gandzakar,Village,Ijevan,3434
+Geghatap,Village,Ijevan,8
+Getahovit,Village,Ijevan,2123
+Gosh,Village,Dilijan,1115
+Haghartsin,Village,Dilijan,3791
+Haghtanak,Village,Noyemberyan,1161
+Hovk,Village,Ijevan,435
+Itsakar,Village,Taush,292
+Jujevan,Village,Noyemberyan,514
+Kayan,Village,Ijevan,309
+Khachardzan,Village,Ijevan,352
+Khashtarak,Village,Ijevan,1771
+Kirants,Village,Ijevan,352
+Koghb,Village,Noyemberyan,4420
+Koti,Village,Noyemberyan,2014
+Lchkadzor,Village,Noyemberyan,433
+Lusadzor,Village,Ijevan,671
+Lusahovit,Village,Ijevan,364
+Mosesgegh (Movses),Village,Taush,1748
+Navur,Village,Taush,1065
+Nerkin Karmiraghbyur,Village,Taush,904
+Norashen,Village,Taush,1677
+Paravakar,Village,Taush,1464
+Ptghavan,Village,Noyemberyan,831
+Sarigyugh,Village,Ijevan,1226
+Sevkar,Village,Ijevan,2193
+Tavush (Tovuz),Village,Taush,1454
+Teghut,Village,Dilijan,1342
+Tsaghkavan (Nerkin Tsaghkavan),Village,Ijevan,532
+Tsaghkavan (Verin Tsaghkavan),Village,Taush,887
+Varagavan,Village,Taush,630
+Vazashen,Village,Ijevan,765
+Verin Karmiraghbyur,Village,Taush,1632
+Voskepar,Village,Noyemberyan,818
+Voskevan,Village,Noyemberyan,1256
+Yenokavan,Village,Ijevan,537
+Zorakan (Verin Kyorplu),Village,Noyemberyan,891
+Achanan (Khalaj),Village,Kapan,164
+Agarak,Village,Kapan,177
+Aghitu,Village,Sisian,436
+Aghvani,Village,Kapan,98
+Ajabaj,Village,Kapan,28
+Akhlatyan,Village,Sisian,535
+Akner (Brrun),Village,Goris,1374
+Alvank (Aldara),Village,Meghri,352
+Angeghakot,Village,Sisian,1582
+Antarashat,Village,Kapan,163
+Arajadzor,Village,Kapan,184
+Aravus,Village,Goris,171
+Arevis,Village,Sisian,54
+Artsvanik,Village,Kapan,625
+Ashotavan,Village,Sisian,589
+Aygedzor,Village,Meghri,9
+Balak,Village,Sisian,174
+Bardzravan,Village,Goris,146
+Bargushat (Arznak),Village,Kapan,98
+Bnunis,Village,Sisian,176
+Brnakot,Village,Sisian,1960
+Chakaten,Village,Kapan,131
+Chapni,Village,Kapan,112
+Darbas,Village,Sisian,556
+David Bek,Village,Kapan,796
+Ditsmayri,Village,Kapan,165
+Dzorastan,Village,Kapan,65
+Geghanush,Village,Kapan,253
+Geghi,Village,Kapan,172
+Getatagh,Village,Sisian,182
+Getishen (Chaykend),Village,Kapan,87
+Gomaran,Village,Kapan,71
+Gorayk,Village,Sisian,435
+Gudemnis,Village,Meghri,21
+Halidzor,Village,Goris,551
+Hartashen,Village,Goris,717
+Harzhis,Village,Goris,879
+Hatsavan,Village,Sisian,253
+Ishkhanasar (Ghzljugh),Village,Sisian,294
+Kaghnut,Village,Kapan,105
+Kajaran,Village,Kapan,250
+Karahunj,Village,Goris,1365
+Karashen,Village,Goris,550
+Karchevan,Village,Meghri,301
+Kashuni,Village,Goris,11
+Kavchut,Village,Kapan,88
+Khdrants,Village,Kapan,48
+Khnatsakh,Village,Goris,998
+Khndzoresk,Village,Goris,2070
+Khordzor,Village,Kapan,18
+Khot,Village,Goris,942
+Khoznavar,Village,Goris,396
+Kornidzor,Village,Goris,1100
+Kuris,Village,Meghri,44
+Lehvaz,Village,Meghri,571
+Lernadzor,Village,Kapan,866
+Lichk,Village,Meghri,161
+Lor,Village,Sisian,365
+Ltsen,Village,Sisian,76
+Musallam,Village,Kapan,57
+Mutsk,Village,Sisian,324
+Nerkin Hand,Village,Kapan,97
+Nerkin Khndzoresk,Village,Goris,276
+Nerkin Khotanan,Village,Kapan,65
+Norashenik,Village,Kapan,128
+Nor Astghaberd,Village,Kapan,57
+Noravan,Village,Sisian,485
+Nrnadzor (Nyuvadi),Village,Meghri,148
+Nzhdeh (Soflu),Village,Sisian,92
+Okhtar,Village,Kapan,93
+Salvard,Village,Sisian,263
+Sarnakunk,Village,Sisian,474
+Sevakar,Village,Kapan,104
+Shaghat,Village,Sisian,969
+Shaki,Village,Sisian,1197
+Shamb,Village,Sisian,416
+Shenatagh,Village,Sisian,389
+Shikahogh,Village,Kapan,229
+Shinuhayr,Village,Goris,2661
+Shishkert,Village,Kapan,264
+Shrvenants,Village,Kapan,76
+Shurnukh,Village,Goris,207
+Shvanidzor,Village,Meghri,312
+Spandaryan,Village,Sisian,371
+Srashen,Village,Kapan,90
+Svarants,Village,Goris,264
+Syunik,Village,Kapan,791
+Sznak (Nerkin Gyodaklu),Village,Kapan,194
+Tanahat,Village,Sisian,7
+Tandzatap,Village,Goris,88
+Tandzaver,Village,Kapan,211
+Tashtun,Village,Meghri,104
+Tasik,Village,Sisian,221
+Tatev,Village,Goris,864
+Tavrus (Dovrus),Village,Kapan,92
+Tegh,Village,Goris,2443
+Tkhkut (Maralzami),Village,Meghri,69
+Tolors,Village,Sisian,332
+Torunik,Village,Sisian,120
+Tsav,Village,Kapan,74
+Tsghuk,Village,Sisian,422
+Tsghuni,Village,Sisian,47
+Uyts,Village,Sisian,396
+Uzhanis,Village,Kapan,59
+Vaghatin,Village,Sisian,593
+Vaghatur,Village,Goris,336
+Vahravar,Village,Meghri,48
+Vanek,Village,Kapan,61
+Vardanidzor,Village,Meghri,228
+Vardavank (Verin Gyodaklu),Village,Kapan,100
+Verin Khotanan,Village,Kapan,203
+Verishen,Village,Goris,2264
+Vorotan,Village,Goris,309
+Vorotan,Village,Sisian,263
+Yegheg,Village,Kapan,121
+Yeghvard,Village,Kapan,273
+Agarakadzor,Village,Eghegnadzor,1301
+Aghavnadzor,Village,Eghegnadzor,1890
+Aghnjadzor,Village,Eghegnadzor,412
+Akhta,Village,Vayk,1
+Areni,Village,Eghegnadzor,1772
+Arin,Village,Vayk,309
+Arpi,Village,Eghegnadzor,1149
+Artabuynk,Village,Eghegnadzor,984
+Artavan,Village,Vayk,321
+Azatek,Village,Vayk,603
+Bardzruni,Village,Vayk,361
+Chiva,Village,Eghegnadzor,698
+Getap,Village,Eghegnadzor,1981
+Gladzor,Village,Eghegnadzor,2126
+Gndevaz,Village,Vayk,829
+Gnishik,Village,Eghegnadzor,44
+Goghtanik,Village,Eghegnadzor,190
+Gomk,Village,Vayk,138
+Herher,Village,Vayk,706
+Hermon,Village,Eghegnadzor,180
+Horbategh,Village,Eghegnadzor,242
+Hors,Village,Eghegnadzor,321
+Kapuyt,Village,Vayk,23
+Karaglukh,Village,Eghegnadzor,743
+Karmrashen,Village,Vayk,252
+Kechut,Village,Vayk,944
+Khachik,Village,Eghegnadzor,862
+Khndzorut,Village,Vayk,500
+Malishka,Village,Eghegnadzor,4460
+Martiros,Village,Vayk,601
+Mozrov,Village,Eghegnadzor,88
+Nor Aznaberd,Village,Vayk,126
+Por,Village,Vayk,134
+Rind,Village,Eghegnadzor,1397
+Salli,Village,Eghegnadzor,220
+Saravan,Village,Vayk,245
+Sers,Village,Vayk,189
+Sevazhayr,Village,Eghegnadzor,13
+Shatin,Village,Eghegnadzor,1736
+Taratumb,Village,Eghegnadzor,448
+Ughedzor,Village,Vayk,21
+Vardahovit,Village,Eghegnadzor,103
+Vernashen,Village,Eghegnadzor,1113
+Yeghegis,Village,Eghegnadzor,369
+Yelpin,Village,Eghegnadzor,1209
+Zaritap,Village,Vayk,1380
+Zedea,Village,Vayk,141
